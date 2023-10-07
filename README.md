@@ -2,7 +2,7 @@
 
 # Weather App
 
-This is a website for  travellers or anyone who is interested in knowing the weather condition enthusiasts. the data is fetched from accurate live data from API. This web application is for individual, commercial and scientific  uses. The application will allow users to view the current weather conditions. This application is built with JavaScript, HTML, CSS and React JS.
+This is a website for  travellers or anyone who is interested in knowing the weather condition enthusiasts. the data is fetched from accurate live data from API. This web application is for individual, commercial and scientific  uses. The application will allow users to view the current weather conditions. This application is built with JavaScript, HTML, CSS and React JS.more here https://www.loom.com/share/b475c651da16461296bbd861d35e2b68
 
 # 📗 Table of Contents
 
