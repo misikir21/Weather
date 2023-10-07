@@ -10,6 +10,8 @@ This is a website for  travellers or anyone who is interested in knowing the wea
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    -  [🚀 Live Demo ](#-live-demo-)
+  - [🎥 Video Link ](#-video-link-)
 - [💻 Getting Started](#getting-started)
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
