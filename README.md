@@ -1,8 +1,8 @@
-![wether](https://github.com/misikir21/Space-Traveller/assets/41914268/1f23afb2-8d28-4c7d-b268-f7b469c58691)
+![wether](https://github.com/misikir21/Space-Traveller/assets/41914268/b3588c22-310c-4cd5-8d81-48f9f49b8d28)
 
-# Space-Traveller
+# Weather App
 
-This is a website for space travel enthusiasts. the data is fetched from accurate live data from the SpaceX API. This web application is for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions. This application is built with JavaScript, HTML, CSS and React JS.
+This is a website for  travellers or anyone who is interested in knowing the weather condition enthusiasts. the data is fetched from accurate live data from API. This web application is for individual, commercial and scientific  uses. The application will allow users to view the current weather conditions. This application is built with JavaScript, HTML, CSS and React More here https://www.loom.com/share/b475c651da16461296bbd861d35e2b68
 
 # 📗 Table of Contents
 
@@ -52,12 +52,9 @@ This is a website for space travel enthusiasts. the data is fetched from accurat
 
 ### Key Features <a name="key-features"></a>
 
-- Allow space travellers to book for rocket ✒️
-- Show the status of booked travel ⏳
-- Booker profile 👤
-- Available mission page 🛒
-- Rockets section displays a list of all available SpaceX rockets 🚀
-
+- The project is a single-page application (SPA) built with React and Redux 📃
+- When the page loads, the web app shows the list of categories that could be filtered 🔃
+- Fetch data from API 💻
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -117,6 +114,7 @@ If you have any inquiries, suggestions, or feedback, please feel free to contact
 
 - [ ] A complete website with navigation
 - [ ] Add more styles to make it more awesome
+- [ ] Display weather of neighbour country automaitcally 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
