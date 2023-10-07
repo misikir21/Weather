@@ -148,6 +148,6 @@ I would like to thank Microverse and Nelson Sakwa here <a href="https://www.beha
 
 ## 📝 License <a name="LICENSE"></a>
 
-This project  licensed <a href="https://choosealicense.com/licenses/mit/">MIT</a>.
+This project  licensed <a href="https://raw.githubusercontent.com/misikir21/Weather/feature/weather-app/MIT.md">MIT</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
