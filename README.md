@@ -10,6 +10,9 @@ This is a website for  travellers or anyone who is interested in knowing the wea
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    -  [🚀 Live Demo ](#-live-demo-)
+  - [🎥 Video Link ](#-video-link-)
+
 - [💻 Getting Started](#getting-started)
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -68,6 +71,15 @@ In order to run this project you need:
 - Git scm.
 
 ### Setup
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://jazzy-crostata-9099d2.netlify.app/)
+
+
+## 🎥 Video Link <a name="live-demo"></a>
+-[Video describing the project](https://www.loom.com/share/b475c651da16461296bbd861d35e2b68)
 
 Clone this repository to your desired folder:
 
