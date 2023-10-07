@@ -1,4 +1,4 @@
-## Copyright 2023, Space Travelers' Hub
+## Copyright weather app
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this WEBAPP and associated documentation files, to deal in the WEBAPP without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the WEBAPP, and to permit persons to whom the WEBAPP is furnished to do so, subject to the following conditions:
 
