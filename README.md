@@ -138,13 +138,13 @@ Feel free to check the [issues page](../../issues/).
 
 If you like this project just give it a star ⭐️.
 
-Everybody is welcome to suggest changes in the Bookstore project.
+Everybody is welcome to suggest changes to the Bookstore project.
 
 In order to do it, fork this repository, create a new branch and open a Pull Request from your branch
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse
+I would like to thank Microverse for and the designer at https://www.behance.net/sakwadesignstudio
 
 ## 📝 License <a name="LICENSE"></a>
 
