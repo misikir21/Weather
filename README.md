@@ -144,7 +144,7 @@ In order to do it, fork this repository, create a new branch and open a Pull Req
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse
+I would like to thank Microverse and Nelson Sakwa here <a href="https://www.behance.net/sakwadesignstudio">sakwadesignstudio</a>)
 
 ## 📝 License <a name="LICENSE"></a>
 
