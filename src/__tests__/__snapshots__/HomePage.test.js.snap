@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test My home page should test the snapshot of home page 1`] = `
+<div>
+  <header
+    className="header"
+  >
+    <h1
+      className="header-title"
+    >
+      WeatherHub: Explore Weather in Major Cities 
+    </h1>
+    <div
+      className="header-content"
+    >
+      <div
+        className="header-filter"
+      >
+        <span>
+          Filter
+        </span>
+        <select
+          onChange={[Function]}
+          value="All"
+        >
+          <option
+            value="All"
+          >
+            All
+          </option>
+          <option
+            value="Hot"
+          >
+            Hot
+          </option>
+          <option
+            value="Temperate"
+          >
+            Temperate
+          </option>
+          <option
+            value="Cold"
+          >
+            Cold
+          </option>
+        </select>
+      </div>
+      <h2>
+        Most views
+      </h2>
+      <div
+        className="icons"
+      >
+        <img
+          alt="microphone"
+          className="icons-img"
+          src="green-radio-microphone-14640.png"
+        />
+        <img
+          alt="setting"
+          className="icons-img"
+          src="settings-5666.png"
+        />
+      </div>
+    </div>
+  </header>
+  <div
+    className="container"
+  >
+    <div
+      className="city"
+    >
+      <a
+        className="link"
+        href="/details/1138957"
+        onClick={[Function]}
+      >
+        <div
+          className="city-image"
+        >
+          <img
+            alt="weatherIcon"
+            className="city-image-one"
+            src="yellow-sun-and-blue-cloud-16528.png"
+          />
+          <img
+            alt="go on "
+            src="right-arrow-6421.png"
+          />
+        </div>
+        <h3>
+          Kabul
+        </h3>
+        <p>
+          20.96
+           
+          °C
+        </p>
+        <p>
+           
+          Humidity:
+           
+          31
+          %
+        </p>
+      </a>
+    </div>
+    <div
+      className="city"
+    >
+      <a
+        className="link"
+        href="/details/1141269"
+        onClick={[Function]}
+      >
+        <div
+          className="city-image"
+        >
+          <img
+            alt="weatherIcon"
+            className="city-image-one"
+            src="yellow-sun-and-blue-cloud-16528.png"
+          />
+          <img
+            alt="go on "
+            src="right-arrow-6421.png"
+          />
+        </div>
+        <h3>
+          Ghazni
+        </h3>
+        <p>
+          20.56
+           
+          °C
+        </p>
+        <p>
+           
+          Humidity:
+           
+          50
+          %
+        </p>
+      </a>
+    </div>
+  </div>
+</div>
+`;

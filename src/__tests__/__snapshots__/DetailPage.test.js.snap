@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test Ditailpage that show one city weather should test the snapshot of Dital page 1`] = `
+<div>
+  <header
+    className="header"
+  >
+    <div
+      className="header-content"
+    >
+      <div
+        className="header-filter"
+      >
+        <a
+          className="link-detail"
+          href="/"
+          onClick={[Function]}
+        >
+          <img
+            alt="weatherImage"
+            src="black-arrow-left-11375.png"
+          />
+        </a>
+      </div>
+      <h3>
+        weather
+      </h3>
+      <div
+        className="icons"
+      >
+        <img
+          alt="microphone"
+          className="icons-img"
+          src="green-radio-microphone-14640.png"
+        />
+        <img
+          alt="setting"
+          className="icons-img"
+          src="settings-5666.png"
+        />
+      </div>
+    </div>
+  </header>
+</div>
+`;
