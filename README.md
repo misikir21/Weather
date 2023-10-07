@@ -79,6 +79,16 @@ Run this command:
  cd my-folder
 
 ```
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://weather-1glk.onrender.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🎥 Video Link <a name="live-demo"></a>
+-[Video describing the project](https://loom.com/share/bc89172a729b43439011e75df902b984?sid=3e593e3e-32e5-404a-9996-50c81494d646)
+
 
 ### Install
 
