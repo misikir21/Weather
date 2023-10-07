@@ -1,0 +1,42 @@
+.detailsPage {
+  min-height: 100vh;
+  background: linear-gradient(to right, #418bab, #4380cb);
+  color: white;
+}
+
+.cardHeader {
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: 600;
+  background-image: url(../../assets/blueBackground.png);
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: bisque;
+  padding: 1em;
+  background-image: url(../../assets/blueBackground.png);
+  background-repeat: repeat;
+}
+
+.desc {
+  font-size: 1.125rem;
+  font-style: italic;
+  color: white;
+  font-weight: 500;
+}
+
+.row:nth-of-type(even) {
+  background: #418bab4d;
+}
+
+.row:nth-of-type(odd) {
+  background: #4380cb4d;
+}
+
+.row:nth-of-type(even):hover,
+.row:nth-of-type(odd):hover {
+  opacity: 0.7;
+}

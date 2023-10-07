@@ -1,0 +1,21 @@
+.footer {
+  padding: 0.5em 0;
+}
+
+.footerRow {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  padding: 0 1em;
+  font-size: 1.125rem;
+  opacity: 0.8;
+  height: 30px;
+  max-height: 50px;
+}
+
+.footerRow p:last-of-type {
+  font-size: 1rem;
+  opacity: 0.6;
+}

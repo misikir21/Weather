@@ -1,0 +1,12 @@
+.card {
+  color: bisque;
+}
+
+.cardHeader {
+  font-style: italic;
+  color: white;
+}
+
+.card:hover {
+  opacity: 0.7;
+}
