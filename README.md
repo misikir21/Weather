@@ -144,11 +144,11 @@ In order to do it, fork this repository, create a new branch and open a Pull Req
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for and the designer at https://www.behance.net/sakwadesignstudio
+I would like to thank Microverse for and the designer at  <a href="https://www.behance.net/sakwadesignstudio">designer</a>
 
 ## 📝 License <a name="LICENSE"></a>
 
 The content of this repository is licensed under the MIT License. Feel free to use, modify, and distribute the code following the terms of the license.
-Thank you for visiting GitHub repository.<a href="https://choosealicense.com/licenses/mit/">mit licence/</a>)
+Thank you for visiting GitHub repository.<a href="https://choosealicense.com/licenses/mit/">mit licence</a>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
