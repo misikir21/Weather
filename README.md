@@ -147,6 +147,6 @@ I would like to thank Microverse for and the designer at <a href="https://www.be
 ## 📝 License <a name="LICENSE"></a>
 
 The content of this repository is licensed under the MIT License. Feel free to use, modify, and distribute the code following the terms of the license.
-Thank you for visiting GitHub repository.<a href="https://choosealicense.com/licenses/mit/">mit licence</a>
+Thank you for visiting GitHub repository.<a href="https://raw.githubusercontent.com/misikir21/Weather/feature/weather-app/MIT.md">mit licence</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
